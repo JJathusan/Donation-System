@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home Screen</h1>
-      <p>Welcome to the Donation System!</p>
+    <div style={{ padding: "20px" }}>
+      <h1>Welcome to Donation System</h1>
+      <p>This is the Home page. Use the navigation menu to go to other pages.</p>
     </div>
   );
 };
